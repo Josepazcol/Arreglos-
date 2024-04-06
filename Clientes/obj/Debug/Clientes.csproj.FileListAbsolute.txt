@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos 2\Clientes\bin\Debug\Clientes.exe.config
+C:\Users\DELL\source\repos 2\Clientes\bin\Debug\Clientes.exe
+C:\Users\DELL\source\repos 2\Clientes\bin\Debug\Clientes.pdb
+C:\Users\DELL\source\repos 2\Clientes\obj\Debug\Clientes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos 2\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos 2\Clientes\obj\Debug\Clientes.exe
+C:\Users\DELL\source\repos 2\Clientes\obj\Debug\Clientes.pdb

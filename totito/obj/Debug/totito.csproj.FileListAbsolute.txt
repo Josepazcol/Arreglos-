@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\totito\bin\Debug\totito.exe.config
+C:\Users\DELL\source\repos\totito\bin\Debug\totito.exe
+C:\Users\DELL\source\repos\totito\bin\Debug\totito.pdb
+C:\Users\DELL\source\repos\totito\obj\Debug\totito.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\totito\obj\Debug\totito.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\totito\obj\Debug\totito.exe
+C:\Users\DELL\source\repos\totito\obj\Debug\totito.pdb

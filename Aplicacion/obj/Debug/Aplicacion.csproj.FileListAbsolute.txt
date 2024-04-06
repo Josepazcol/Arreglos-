@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos 2\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Users\DELL\source\repos 2\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Users\DELL\source\repos 2\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\DELL\source\repos 2\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos 2\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos 2\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Users\DELL\source\repos 2\Aplicacion\obj\Debug\Aplicacion.pdb
